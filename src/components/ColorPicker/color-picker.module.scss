@@ -1,0 +1,29 @@
+.wrapper {
+  padding: 10px;
+  border: 2px solid lighten(#5a5a5a, 10%);
+  background-color: #5a5a5a;
+  border-radius: 6px;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  z-index: 1000;
+}
+
+.right {
+  left: auto;
+  right: 20px;
+}
+
+.currentColor {
+  padding: 5px;
+  border-radius: 4px;
+  color: #fff;
+}
+
+.colors {
+  padding: 10px;
+  margin: 5px;
+  border: none;
+  color: #fff;
+  border-radius: 4px;
+}
