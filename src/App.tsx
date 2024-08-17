@@ -1,13 +1,12 @@
 import Game from "./components/Game/Game.tsx";
-import "./App.css"
+import "./App.css";
 
 function App() {
-
   return (
     <>
-			<Game />
+      <Game />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
